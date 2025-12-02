@@ -1,1 +1,1 @@
-class related assignment projects are to be branched in this repo
+ml data collection from 10 diff methods
